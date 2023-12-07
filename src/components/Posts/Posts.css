@@ -1,0 +1,9 @@
+.posts-area{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    
+}
+.posts{
+    width: 100% !important;
+}

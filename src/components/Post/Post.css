@@ -1,0 +1,16 @@
+
+.post-container{
+    border: 1px solid #db5252;
+    border-radius: 20px;
+    text-align: left;
+    padding: 2%;
+}
+.post-title{
+    color: violet;
+    text-decoration: underline;
+}
+.post-body{
+    text-align: left;
+    color: black;
+
+}
